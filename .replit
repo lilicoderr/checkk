@@ -5,6 +5,7 @@ channel = "stable-24_05"
 packages = ["chromium"]
 
 [workflows]
+runButton = "Project"
 
 [[workflows.workflow]]
 name = "Project"
