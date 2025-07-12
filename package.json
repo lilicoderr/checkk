@@ -3,8 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "prestart": "npx playwright install",  // 브라우저 설치
-    "start": "npx playwright install && node index.js",  // 브라우저 설치 후 서버 시작
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
